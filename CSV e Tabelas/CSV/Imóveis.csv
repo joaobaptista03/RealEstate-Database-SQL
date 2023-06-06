@@ -1,0 +1,151 @@
+ID;Local;Valor;Area;Utilizacao
+1;1;83066.10;57;Arrendamento
+2;1;103468.30;71;Uso Próprio
+3;2;181376.00;160;Uso Próprio
+4;3;43807.40;58;Arrendamento
+5;4;69487.60;92;Arrendamento
+6;5;124772.70;69;Uso Próprio
+7;6;211380.00;60;Uso Próprio
+8;7;61206.60;57;Uso Próprio
+9;8;54763.80;51;Uso Próprio
+10;9;246610.00;70;Uso Próprio
+11;10;51005.50;35;Uso Próprio
+12;10;74140.30;41;Uso Próprio
+13;11;35141.60;31;Uso Próprio
+14;12;66907.10;37;Arrendamento
+15;13;182001.30;69;Arrendamento
+16;14;92223.30;51;Uso Próprio
+17;15;51573.60;36;Uso Próprio
+18;56;243087.00;69;Uso Próprio
+19;16;67035.80;46;Uso Próprio
+20;17;422760.00;120;Arrendamento
+21;18;253423.30;151;Uso Próprio
+22;19;598910.00;170;Arrendamento
+23;19;97715.80;91;Arrendamento
+24;20;278317.00;79;Arrendamento
+25;21;201100.90;41;Uso Próprio
+26;21;107380.00;100;Arrendamento
+27;22;750399.00;213;Uso Próprio
+28;23;157388.40;108;Uso Próprio
+29;24;104158.60;97;Arrendamento
+30;25;164555.30;91;Arrendamento
+31;26;99019.70;59;Uso Próprio
+32;26;88420.80;78;Arrendamento
+33;27;56647.50;75;Uso Próprio
+34;28;242668.40;92;Uso Próprio
+35;29;147711.20;56;Uso Próprio
+36;30;75166.00;70;Uso Próprio
+37;31;73062.60;51;Uso Próprio
+38;32;33988.50;45;Uso Próprio
+39;33;191291.10;39;Uso Próprio
+40;34;41545.40;29;Uso Próprio
+41;35;39275.60;52;Arrendamento
+42;36;77360.40;54;Arrendamento
+43;37;73062.60;51;Uso Próprio
+44;38;203931.00;270;Uso Próprio
+45;39;24924.90;33;Uso Próprio
+46;40;34382.40;24;Arrendamento
+47;41;39782.60;22;Arrendamento
+48;42;1083982.90;221;Arrendamento
+49;43;84552.00;24;Arrendamento
+50;44;116048.40;43;Arrendamento
+51;45;32477.90;43;Uso Próprio
+52;46;419702.40;288;Arrendamento
+53;47;38680.20;27;Uso Próprio
+54;48;78694.20;54;Uso Próprio
+55;48;118041.30;81;Uso Próprio
+56;49;40279.20;24;Arrendamento
+57;50;33062.90;29;Arrendamento
+58;51;38542.40;34;Uso Próprio
+59;52;108145.70;41;Arrendamento
+60;53;42952.00;40;Arrendamento
+61;53;89554.40;79;Arrendamento
+62;54;102554.40;38;Uso Próprio
+63;55;214966.70;71;Uso Próprio
+64;56;123971.90;47;Arrendamento
+65;57;152986.60;58;Uso Próprio
+66;58;169104.00;48;Uso Próprio
+67;59;246610.00;70;Arrendamento
+68;60;65501.80;61;Uso Próprio
+69;61;40112.80;28;Uso Próprio
+70;62;75566.40;28;Uso Próprio
+71;63;51012.00;45;Uso Próprio
+72;64;165581.00;47;Uso Próprio
+73;64;142242.10;29;Arrendamento
+74;65;139798.10;53;Uso Próprio
+75;66;74322.30;51;Uso Próprio
+76;67;197288.00;56;Arrendamento
+77;68;85593.30;51;Arrendamento
+78;69;128934.00;90;Uso Próprio
+79;69;58292.00;40;Arrendamento
+80;70;250149.90;51;Uso Próprio
+81;71;36509.20;34;Uso Próprio
+82;72;166523.50;55;Uso Próprio
+83;73;137165.60;121;Uso Próprio
+84;74;218426.00;62;Uso Próprio
+85;75;284484.20;58;Uso Próprio
+86;76;431631.20;88;Uso Próprio
+87;77;143036.40;53;Arrendamento
+88;78;41957.50;25;Uso Próprio
+89;79;549723.20;304;Arrendamento
+90;80;24697.40;23;Uso Próprio
+91;81;81373.50;45;Uso Próprio
+92;82;33988.50;45;Arrendamento
+93;83;137337.20;28;Uso Próprio
+94;84;230530.30;47;Uso Próprio
+95;85;74322.30;51;Uso Próprio
+96;86;45207.50;25;Uso Próprio
+97;87;35244.30;21;Arrendamento
+98;88;18127.20;24;Uso Próprio
+99;89;18127.20;24;Uso Próprio
+100;90;617221.80;234;Uso Próprio
+101;91;844064.00;320;Uso Próprio
+102;92;199711.20;74;Uso Próprio
+103;93;294294.00;60;Uso Próprio
+104;94;78694.20;54;Uso Próprio
+105;95;407106.70;83;Uso Próprio
+106;96;141047.40;78;Uso Próprio
+107;97;72865.00;50;Arrendamento
+108;54;95839.90;53;Uso Próprio
+109;98;190242.00;54;Uso Próprio
+110;99;123971.90;47;Arrendamento
+111;100;52027.30;31;Uso Próprio
+112;101;101254.40;64;Arrendamento
+113;102;240340.10;49;Arrendamento
+114;103;490490.00;100;Arrendamento
+115;104;40809.60;36;Uso Próprio
+116;105;218595.00;150;Uso Próprio
+117;106;152051.90;31;Uso Próprio
+118;107;27918.80;26;Uso Próprio
+119;108;34008.00;30;Uso Próprio
+120;109;87271.60;52;Uso Próprio
+121;110;116259.00;33;Uso Próprio
+122;111;38600.90;23;Arrendamento
+123;112;57402.80;76;Uso Próprio
+124;113;109089.50;65;Arrendamento
+125;114;133874.00;38;Uso Próprio
+126;114;37765.00;50;Arrendamento
+127;115;32477.90;43;Uso Próprio
+128;116;35244.30;21;Uso Próprio
+129;117;38656.80;36;Uso Próprio
+130;118;15106.00;20;Arrendamento
+131;119;27918.80;26;Uso Próprio
+132;120;24924.90;33;Uso Próprio
+133;121;100232.60;38;Uso Próprio
+134;122;196361.10;117;Uso Próprio
+135;122;29146.00;20;Uso Próprio
+136;123;22549.80;21;Uso Próprio
+137;124;116259.00;33;Arrendamento
+138;124;126828.00;36;Uso Próprio
+139;125;251269.20;234;Uso Próprio
+140;126;68715.40;38;Uso Próprio
+141;127;35141.60;31;Uso Próprio
+142;128;39275.60;52;Uso Próprio
+143;129;77756.90;43;Uso Próprio
+144;130;93267.20;64;Uso Próprio
+145;131;332303.40;198;Uso Próprio
+146;132;38600.90;23;Arrendamento
+147;133;601395.60;228;Uso Próprio
+148;134;30084.60;21;Uso Próprio
+149;135;1004055.00;285;Uso Próprio
+150;136;45843.20;32;Uso Próprio

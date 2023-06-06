@@ -1,0 +1,137 @@
+ID;Local;PM2;PAM2
+1;Açores;1457.30;728.65
+2;Alandroal;1133.60;566.80
+3;Albergaria-a-Velha;755.30;377.65
+4;Alcácer do Sal;755.30;377.65
+5;Alcanena;1808.30;904.15
+6;Alcobaça;3523.00;1761.50
+7;Alijó;1073.80;536.90
+8;Almada;1073.80;536.90
+9;Almeirim;3523.00;1761.50
+10;Almodôvar;1457.30;728.65
+11;Alpiarça;1133.60;566.80
+12;Alto Alentejo;1808.30;904.15
+13;Alvaiázere;2637.70;1318.85
+14;Amarante;1808.30;904.15
+15;Anadia;1432.60;716.30
+16;Armamar;1457.30;728.65
+17;Arronches;1021.00;510.50
+18;Baião;1678.30;839.15
+19;Barrancos;3523.00;1761.50
+20;Barreiro;3523.00;1761.50
+21;Beja;1073.80;536.90
+22;Bombarral;3523.00;1761.50
+23;Boticas;1457.30;728.65
+24;Cadaval;1073.80;536.90
+25;Caldas da Rainha;1808.30;904.15
+26;Calheta;1133.60;566.80
+27;Cantanhede;755.30;377.65
+28;Carregal do Sal;2637.70;1318.85
+29;Castelo Branco;2637.70;1318.85
+30;Castelo de Paiva;1073.80;536.90
+31;Cávado;1432.60;716.30
+32;Celorico de Basto;755.30;377.65
+33;Coimbra;4904.90;2452.45
+34;Constância;1432.60;716.30
+35;Covilhã;755.30;377.65
+36;Crato;1432.60;716.30
+37;Elvas;1432.60;716.30
+38;Faro;755.30;377.65
+39;Ferreira do Zêzere;755.30;377.65
+40;Figueira da Foz;1432.60;716.30
+41;Fornos de Algodres;1808.30;904.15
+42;Fronteira;4904.90;2452.45
+43;Gavião;3523.00;1761.50
+44;Góis;2698.80;1349.40
+45;Gondomar;755.30;377.65
+46;Gouveia;1457.30;728.65
+47;Guarda;1432.60;716.30
+48;Idanha-a-Nova;1457.30;728.65
+49;Ilha de São Vicente;1678.30;839.15
+50;Lagoa;1140.10;570.05
+51;Lagos;1133.60;566.80
+52;Lajes das Flores;2637.70;1318.85
+53;Lamego;1133.60;566.80
+54;Leiria;2698.80;1349.40
+55;Lezíria do Tejo;3027.70;1513.85
+56;Lisboa;2637.70;1318.85
+57;Loulé;2637.70;1318.85
+58;Loures;3523.00;1761.50
+59;Lourinhã;3523.00;1761.50
+60;Lousã;1073.80;536.90
+61;Lousada;1432.60;716.30
+62;Macedo de Cavaleiros;2698.80;1349.40
+63;Madalena do Mar;1133.60;566.80
+64;Madeira;2100.00;1050.00
+65;Maritime;2637.70;1318.85
+66;Matosinhos;1457.30;728.65
+67;Mealhada;3523.00;1761.50
+68;Mêda;1678.30;839.15
+69;Melgaço;1432.60;716.30
+70;Mira;4904.90;2452.45
+71;Mirandela;1073.80;536.90
+72;Mogadouro;3027.70;1513.85
+73;Monchique;1133.60;566.80
+74;Monforte;3523.00;1761.50
+75;Montalegre;4904.90;2452.45
+76;Montemor-o-Velho;4904.90;2452.45
+77;Montijo;2698.80;1349.40
+78;Mora;1678.30;839.15
+79;Moura;1808.30;904.15
+80;Murça;1073.80;536.90
+81;Nelas;1808.30;904.15
+82;Nisa;755.30;377.65
+83;Odivelas;4904.90;2452.45
+84;Oeiras;4904.90;2452.45
+85;Oleiros;1457.30;728.65
+86;Oliveira de Frades;1808.30;904.15
+87;Ourique;1678.30;839.15
+88;Paredes de Coura;755.30;377.65
+89;Penamacor;755.30;377.65
+90;Penela;2637.70;1318.85
+91;Portalegre;2637.70;1318.85
+92;Portimão;2698.80;1349.4
+93;Porto de Mós;4904.90;2452.45
+94;Póvoa de Varzim;1457.30;728.65
+95;Povoação;4904.90;2452.45
+96;Proença-a-Nova;1808.30;904.15
+97;Aveiro;1457.30;728.65
+98;Ribeira Brava;3523.00;1761.50
+99;Rio Maior;2637.70;1318.85
+100;Sabugal;1678.30;839.15
+101;Salvaterra de Magos;1582.10;791.05
+102;Santa Cruz da Graciosa;4904.90;2452.45
+103;Santa Cruz das Flores;4904.90;2452.45
+104;São João da Madeira;1133.60;566.80
+105;São João da Pesqueira;1457.30;728.65
+106;São Roque do Pico;4904.90;2452.45
+107;Sátão;1073.80;536.90
+108;Seia;1133.60;566.80
+109;Sernancelhe;1678.30;839.15
+110;Serpa;3523.00;1761.50
+111;Sever do Vouga;1678.30;839.15
+112;Silves;755.30;377.65
+113;Sines;1678.30;839.15
+114;Soure;755.30;377.65
+115;Sousel;755.30;377.65
+116;Tâmega e Sousa;1678.30;839.15
+117;Terras de Bouro;1073.80;536.90
+118;Terras de Trás-os-Montes;755.30;377.65
+119;Torres Novas;1073.80;536.90
+120;Vagos;755.30;377.65
+121;Vale de Cambra;2637.70;1318.85
+122;Valongo;1457.30;728.65
+123;Velas;1073.80;536.90
+124;Viana do Castelo;2123.00;1061.50
+125;Vila Flor;1073.80;536.90
+126;Vila Nova da Barquinha;1808.30;904.15
+127;Vila Nova de Cerveira;1133.60;566.80
+128;Vila Nova de Famalicão;755.30;377.65
+129;Vila Nova de Foz Côa;1808.30;904.15
+130;Vila Nova de Poiares;1457.30;728.65
+131;Vila Pouca de Aguiar;1678.30;839.15
+132;Vila Real;1678.30;839.15
+133;Vila Real de Santo António;2637.70;1318.85
+134;Vila Velha de Ródão;1432.60;716.30
+135;Vinhais;3523.00;1761.50
+136;Viseu Dão Lafões;1432.60;716.30

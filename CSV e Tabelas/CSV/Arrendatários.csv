@@ -1,0 +1,251 @@
+ID;Nome;DataNascimento;Género;ÁreaResidência;Profissão
+1;Marta Fonseca;1952-3-13;F;Faro;Físico, químico e especialista relacionado
+2;Lucas de Gomes;1968-5-1;M;Porto;Sargento das Forças Armadas
+3;Bárbara da Sousa;1994-6-7;F;Lisboa;Tripulante de convés de navios e similares
+4;Igor Teixeira;1971-2-4;M;Porto;Trabalhador qualificado do fabrico de instrumentos de precisão, joalheiros, artesãos e similares
+5;Eduardo Pinheiro;1957-7-25;M;Faro;Técnico de operação e controlo de processos industriais
+6;Edgar Vaz;1978-4-16;M;Braga;Técnico das ciências físicas e de engenharia
+7;Micael da Monteiro;1958-5-5;M;Setúbal;Director das indústrias transformadoras, extractivas, da construção, transportes e distribuição
+8;Ivo Antunes;1954-4-21;M;Lisboa;Auxiliar de enfermagem e parteiras
+9;Filipa Vicente;1976-6-14;F;Setúbal;Operador de instalações, da extracção mineira e de processamento de minerais
+10;Bernardo Baptista;1955-8-1;M;Faro;Trabalhador não qualificado da indústria extractiva e construção
+11;Duarte Campos;1981-4-5;M;Lisboa;Trabalhador qualificado da aquicultura e das pescas; caçador (inclui com armadilha)
+12;Renato Matos;1978-9-23;M;Setúbal;Outro pessoal de apoio de tipo administrativo
+13;Emma Guerreiro;1961-4-14;F;Faro;Director e gerente de hotelaria e restauração
+14;Raquel Rocha;1992-11-10;F;Faro;Veterinário
+15;Benedita-Larissa Nogueira;1959-9-17;F;Setúbal;Especialista em organização administrativa
+16;Naiara Campos;1985-9-30;F;Lisboa;Agricultor e trabalhador qualificado de culturas agrícolas de mercado
+17;Sara-Isabel Leite;1988-2-25;F;Braga;Técnico de secretariado
+18;Jéssica Antunes;1983-1-21;F;Porto;Profissional paramédico
+19;Luciana Carvalho;1970-9-5;F;Braga;Trabalhador de cuidados pessoais nos serviços de saúde
+20;Diego Pires;1970-5-23;M;Setúbal;Pescador, caçador e colector, de subsistência
+21;Wilson Maia;1989-4-19;M;Setúbal;Operador de dados, de contabilidade, estatística e serviços financeiros
+22;Mélanie-Luana Ribeiro;1981-3-20;F;Faro;Veterinário
+23;Núria Anjos;1989-10-5;F;Porto;Trabalhador de chapas metálicas, preparador e montador de estruturas metálicas, moldador de metal, soldador e trabalhador similares
+24;Francisca Gaspar;1954-1-27;F;Lisboa;Profissional de nível intermédio da saúde
+25;Juliana Leal;1978-9-25;F;Braga;Trabalhador não qualificado da indústria extractiva e construção
+26;Fernando Pinho;1987-6-6;M;Setúbal;Trabalhador de limpeza em casas particulares, hotéis e escritórios
+27;Henrique Martins;1970-10-2;M;Lisboa;Director e gerente de hotelaria e restauração
+28;Sofia Barbosa;1977-11-21;F;Lisboa;Técnico operador das tecnologias de informação e comunicação e de apoio aos utilizadores
+29;Madalena Azevedo;1953-6-13;F;Faro;Trabalhador qualificado da floresta e similares
+30;Ivo Santos;1955-10-7;M;Faro;Assistente de viagem, cobrador e guia intérprete
+31;Kevin Leite;1973-4-9;M;Faro;Trabalhador qualificado da construção das estruturas básicas e similares
+32;Igor Faria;1962-1-14;M;Porto;Professor dos ensinos básico (1º ciclo) e educador de infância
+33;Jorge Sá;1972-8-13;M;Faro;Profissional de enfermagem
+34;Joel Borges;1962-11-6;M;Faro;Especialista do ensino
+35;Enzo Pinheiro;1979-9-9;M;Lisboa;Director geral e gestor executivo de empresas
+36;Ângela Teixeira;1982-1-28;F;Porto;Bibliotecário, arquivista e curador de museus e similares
+37;Luna Brito;1950-9-19;F;Lisboa;Trabalhador da confecção de vestuário, curtidor de peles, sapateiro e similares
+38;Márcio Pereira-Barbosa;1990-2-1;M;Faro;Pessoal dos serviços de protecção e segurança
+39;Renato Moura;1963-8-30;M;Porto;Físico, químico e especialista relacionado
+40;Isabel do Gaspar;1976-1-16;F;Setúbal;Criador de animais de subsistência
+41;Mariana Pinho;1982-7-15;F;Lisboa;Técnico operador das tecnologias de informação e comunicação e de apoio aos utilizadores
+42;Adriana Cardoso;1952-5-24;F;Faro;Empregado de escritório em geral
+43;Jorge Amorim;1983-2-18;M;Porto;Director de serviços especializados
+44;Diana Cardoso-Loureiro;1987-6-26;F;Braga;Trabalhador de chapas metálicas, preparador e montador de estruturas metálicas, moldador de metal, soldador e trabalhador similares
+45;Duarte de Henriques;1977-4-12;M;Faro;Director e gerente de outros serviços
+46;Carlos Freitas;1967-3-26;M;Lisboa;Director das indústrias transformadoras, extractivas, da construção, transportes e distribuição
+47;Henrique da Mendes;1960-6-19;M;Braga;Motorista de veículos pesados e de autocarros
+48;Violeta Pinto;1974-7-24;F;Lisboa;Técnico da medicina e farmácia
+49;Frederico Garcia;1971-2-13;M;Faro;Profissional de nível intermédio da medicina tradicional e complementar
+50;Filipe Loureiro-Araújo;1986-3-10;M;Porto;Outro pessoal das Forças Armadas
+51;Débora Guerreiro;1990-1-22;F;Setúbal;Trabalhador relacionado com vendas
+52;Hugo Matos;1997-5-18;M;Lisboa;Prestador de serviços na rua
+53;Diana-Kelly Gomes;1952-5-29;F;Porto;Técnico e assistente de veterinários
+54;Tiago Silva-Leal;1975-7-2;M;Lisboa;Agricultor e criador de animais de produção combinada, de subsistência
+55;Bernardo do Rocha;1957-2-27;M;Setúbal;Técnico das telecomunicações e da radiodifusão
+56;Ivan Rodrigues;1987-5-22;M;Setúbal;Trabalhador não qualificado da indústria extractiva e construção
+57;Caetana Baptista-Nascimento;1967-12-3;F;Setúbal;Técnico de nível intermédio da área financeira e matemática
+58;Salomé Monteiro;1966-10-17;F;Braga;Trabalhador da impressão
+59;Ariana do Santos;1989-12-27;F;Braga;Técnico de atividade física e de desporto
+60;Valentim Lima;1958-11-14;M;Braga;Técnico da medicina e farmácia
+61;Clara Ribeiro-Cardoso;1969-5-29;F;Porto;Prestador de serviços na rua
+62;Mia Monteiro;1952-4-7;F;Lisboa;Técnico da medicina e farmácia
+63;Francisca Magalhães;1979-8-22;F;Porto;Físico, químico e especialista relacionado
+64;Mélanie Cardoso;1975-10-2;F;Braga;Tripulante de convés de navios e similares
+65;Raquel Antunes;1958-3-28;F;Faro;Empregado de escritório em geral
+66;Teresa Nunes;1970-10-20;F;Setúbal;Outro pessoal de apoio de tipo administrativo
+67;Carminho Barros;1976-5-21;F;Lisboa;Director e gerente de outros serviços
+68;Soraia Vicente;1983-11-23;F;Setúbal;Tripulante de convés de navios e similares
+69;Nicole Fernandes-Silva;1987-1-1;F;Setúbal;Assistente de viagem, cobrador e guia intérprete
+70;César Vieira;1970-4-15;M;Braga;Especialista em ciências sociais e religiosas
+71;Mário Paiva;1982-3-28;M;Braga;Especialista em organização administrativa
+72;Anita Paiva-Neves;1965-2-23;F;Braga;Técnico da medicina e farmácia
+73;Laura Rodrigues-Brito;1982-7-28;F;Setúbal;Autor, jornalista e linguista
+74;Iara Teixeira;1994-5-28;F;Faro;Trabalhador não qualificado da indústria transformadora
+75;Márcio Ramos;1952-1-30;M;Faro;Especialista em ciências da vida
+76;Débora Baptista-Brito;1960-2-5;F;Setúbal;Especialista em medicina tradicional e alternativa
+77;Afonso Paiva;1970-1-5;M;Lisboa;Técnico operacional e controlador dos transportes marítimo e aéreo
+78;Bryan Reis;1990-11-9;M;Setúbal;Vendedor em lojas
+79;Mauro Martins;1953-3-2;M;Porto;Pescador, caçador e colector, de subsistência
+80;Kyara Pinheiro;1970-2-13;F;Faro;Trabalhador não qualificado de apoio, aos transportes e armazenagem
+81;João Neto;1964-10-22;M;Faro;Outras profissões elementares
+82;Érica Pereira-Fonseca;1988-3-9;F;Braga;Director e gerente de outros serviços
+83;Diego Matos;1962-10-28;M;Porto;Especialista em finanças e contabilidade
+84;Mara Amorim-Sousa;1975-11-22;F;Porto;Técnico de secretariado
+85;Inês Fonseca;1960-12-11;F;Porto;Pessoal de recepção e de informação a clientes
+86;Filipe Fonseca;1951-5-17;M;Lisboa;Técnico de nível intermédio da área financeira e matemática
+87;Mélanie Vieira;1986-6-28;F;Porto;Matemático, actuário, estaticista e demógrafo
+88;Flor Correia;1952-2-18;F;Faro;Motorista de automóveis ligeiros, de carrinhas e condutores de motociclos
+89;Márcio Sá;1968-8-14;M;Lisboa;Director de produção na agricultura, produção animal, floresta e pesca
+90;Caetana Costa;1970-10-15;F;Porto;Especialista em base de dados e redes
+91;André Neto;1973-8-25;M;Porto;Pessoal de recepção e de informação a clientes
+92;Gonçalo Rocha-Vaz;1963-6-7;M;Braga;Autor, jornalista e linguista
+93;Samuel Nogueira;1982-3-13;M;Braga;Agricultor de subsistência
+94;Mateus Rocha;1975-10-8;M;Braga;Operador de dados, de contabilidade, estatística e serviços financeiros
+95;Mia Melo-Miranda;1968-8-3;F;Setúbal;Produtor e trabalhador qualificado na criação animal
+96;Sérgio Jesus;1962-4-29;M;Lisboa;Trabalhador dos serviços pessoais
+97;Sandro Maia;1987-3-24;M;Setúbal;Agente de compras, de vendas e corretores comerciais
+98;Raquel Pacheco;1990-10-21;F;Setúbal;Especialista em assuntos jurídicos
+99;Nádia-Alexandra Moreira;1983-12-23;F;Setúbal;Empregado de aprovisionamento, armazém, de serviços de apoio à produção e transportes
+100;Rafael Miranda;1979-10-28;M;Lisboa;Operador de instalações, da extracção mineira e de processamento de minerais
+101;Kyara-Sara Lopes;1971-2-19;F;Faro;Pessoal dos serviços de protecção e segurança
+102;Rita Correia;1976-2-2;F;Porto;Trabalhador não qualificado da indústria transformadora
+103;Soraia Sá-Amaral;1993-1-21;F;Setúbal;Vendedor ambulante (excepto de alimentos)
+104;Denis Azevedo;1960-10-19;M;Setúbal;Trabalhador da impressão
+105;Guilherme Melo;1966-4-26;M;Faro;Trabalhador da montagem
+106;Martim Borges;1952-12-7;M;Faro;Trabalhador dos serviços pessoais
+107;Mélanie-Beatriz Torres;1990-11-2;F;Lisboa;Auxiliar de educadores de infância e de professores
+108;Letícia-Alícia Machado;1961-3-31;F;Lisboa;Outras profissões elementares
+109;Erica Nunes;1961-6-6;F;Faro;Artista criativo e das artes do espectáculo
+110;Lisandro Anjos;1992-5-5;M;Lisboa;Agricultor de subsistência
+111;Fernando Morais;1968-6-9;M;Porto;Trabalhador não qualificado de apoio, aos transportes e armazenagem
+112;Rafael Borges;1964-5-21;M;Lisboa;Técnico e assistente de veterinários
+113;Bruna Simões-Maia;1991-2-17;F;Porto;Especialista em ciências da vida
+114;Diogo Maia;1973-9-18;M;Lisboa;Director de produção na agricultura, produção animal, floresta e pesca
+115;Eduardo Pires;1988-10-12;M;Braga;Operador de máquinas do fabrico de produtos alimentares e similares
+116;Cristiano Leite;1967-8-18;M;Setúbal;Professor dos ensinos, tecnológico, artístico e profissional
+117;Alice Leal;1977-8-23;F;Faro;Veterinário
+118;Bárbara Matos;1992-10-4;F;Braga;Empregado de mesa e bar
+119;Vítor Neto;1982-6-25;M;Setúbal;Técnico das ciências físicas e de engenharia
+120;Bruno Freitas-Branco;1971-1-10;M;Lisboa;Director de serviços especializados
+121;Kelly Correia;1986-8-24;F;Lisboa;Outras profissões elementares
+122;Fabiana Valente;1956-11-1;F;Setúbal;Oficial das Forças Armadas
+123;Bernardo Gomes;1950-7-6;M;Braga;Tripulante de convés de navios e similares
+124;Valentim Oliveira;1954-7-7;M;Porto;Operador de instalações e máquinas, do fabrico de produtos químicos e fotográficos
+125;César Henriques;1960-3-13;M;Setúbal;Profissional paramédico
+126;Diogo Moura;1965-9-25;M;Lisboa;Director de produção na agricultura, produção animal, floresta e pesca
+127;Vasco Matias;1978-2-2;M;Braga;Trabalhador não qualificado da indústria transformadora
+128;Bianca Antunes;1993-1-3;F;Lisboa;Instalador e reparadore de equipamentos electrónicos e de telecomunicações
+129;Beatriz Abreu;1992-7-14;F;Faro;Trabalhador qualificado em acabamentos da construção e similares
+130;Guilherme Barros;2001-12-3;M;Braga;Empregado de mesa e bar
+131;Micael Mendes;1995-6-29;M;Lisboa;Professor dos ensinos básico (1º ciclo) e educador de infância
+132;Soraia-Amélia Araújo;1987-7-23;F;Faro;Trabalhador de cuidados pessoais nos serviços de saúde
+133;Mário Moura;1972-3-10;M;Braga;Trabalhador de limpeza em casas particulares, hotéis e escritórios
+134;Tatiana Moura;1997-1-27;F;Lisboa;Bibliotecário, arquivista e curador de museus e similares
+135;Benjamim Domingues;1987-9-9;M;Braga;Maquinista de locomotivas e similares
+136;Violeta Moreira;1962-9-11;F;Lisboa;Operador de instalações fixas e máquinas
+137;Edgar Cardoso;1954-10-20;M;Faro;Maquinista de locomotivas e similares
+138;Melissa Anjos;1978-8-18;F;Braga;Director dos serviços das tecnologias da informação e comunicação (TIC)
+139;Xavier Paiva;1989-9-19;M;Braga;Operador de equipamentos móveis
+140;Filipe Azevedo;1955-4-2;M;Porto;Trabalhador não qualificado da indústria extractiva e construção
+141;Martim Pires;1990-12-23;M;Faro;Especialista em finanças e contabilidade
+142;Vasco da Anjos;1953-5-16;M;Porto;Trabalhador da montagem
+143;Nuno Carneiro;1992-11-22;M;Braga;Outro pessoal das Forças Armadas
+144;Lia Ferreira;1977-4-25;F;Setúbal;Operador de instalações de transformação e acabamento, de metais
+145;Vicente Pinheiro;1976-3-31;M;Faro;Veterinário
+146;Santiago do Freitas;1977-10-25;M;Setúbal;Profissional de saúde
+147;Caetana Assunção;1964-10-16;F;Braga;Técnico de nível intermédio da área financeira e matemática
+148;Cristiano Gonçalves;1991-11-10;M;Lisboa;Agente de compras, de vendas e corretores comerciais
+149;Ivo Lourenço;1992-4-29;M;Porto;Motorista de automóveis ligeiros, de carrinhas e condutores de motociclos
+150;Vera Pires;1988-9-15;F;Porto;Técnico operador das tecnologias de informação e comunicação e de apoio aos utilizadores
+151;Miguel Matos;1958-11-6;M;Porto;Operador de instalações para o fabrico de papel, para o trabalho da madeira e cortiça
+152;Hugo Nascimento;1988-5-18;M;Braga;Operador de instalações, da extracção mineira e de processamento de minerais
+153;Emanuel Antunes;1959-6-25;M;Faro;Especialista em ciências da vida
+154;Valentim Lopes;1973-8-5;M;Setúbal;Professor dos ensinos básico (1º ciclo) e educador de infância
+155;Caetana Monteiro;1991-11-27;F;Braga;Empregado de escritório em geral
+156;William Mendes;1974-9-6;M;Braga;Operador de processamento de texto e dados
+157;Benedita da Magalhães;1954-11-29;F;Braga;Instalador e reparador de equipamento eléctrico
+158;Mara Santos-Loureiro;1981-11-3;F;Setúbal;Profissional de enfermagem
+159;Micael Lopes;1959-11-5;M;Lisboa;Operador de instalações fixas e máquinas
+160;Ariana-Marta Antunes;1965-10-24;F;Braga;Encarregado das indústrias extractiva, transformadora e construção
+161;Leandro Castro;1958-8-28;M;Braga;Trabalhador não qualificado da agricultura, produção animal, pesca e floresta
+162;Nuno do Rocha;1985-2-14;M;Setúbal;Agricultor e criador de animais de produção combinada, de subsistência
+163;Gustavo Amaral;1961-6-2;M;Porto;Auxiliar de enfermagem e parteiras
+164;Guilherme Matias;1951-8-4;M;Braga;Empregado de aprovisionamento, armazém, de serviços de apoio à produção e transportes
+165;Núria Fernandes-Amaral;1979-5-16;F;Braga;Agricultor de subsistência
+166;Violeta-Nicole Silva;1988-12-10;F;Lisboa;Trabalhador qualificado da floresta e similares
+167;Camila Neves;1964-7-10;F;Setúbal;Outro pessoal das Forças Armadas
+168;Nair de Macedo;1973-1-20;F;Faro;Empregado de aprovisionamento, armazém, de serviços de apoio à produção e transportes
+169;Nicole Ribeiro;1958-2-8;F;Porto;Trabalhador da recuperação de resíduos
+170;Luísa Melo;1957-12-24;F;Faro;Operador de caixa e venda de bilhetes
+171;Noa Matias;1960-2-7;M;Lisboa;Técnico de nível intermédio das actividades culturais, artísticas e culinárias
+172;Miguel Coelho-Lopes;1962-7-15;M;Porto;Técnico operador das tecnologias de informação e comunicação e de apoio aos utilizadores
+173;Gaspar Abreu;1980-9-28;M;Faro;Físico, químico e especialista relacionado
+174;Ângela Melo;1981-7-5;F;Braga;Trabalhador não qualificado da agricultura, produção animal, pesca e floresta
+175;Carolina Leal;1977-1-2;F;Faro;Especialista em engenharia (excepto electrotecnologia)
+176;Leonor Amorim;1990-3-8;F;Faro;Director das indústrias transformadoras, extractivas, da construção, transportes e distribuição
+177;Leonardo Lopes;1958-10-9;M;Faro;Trabalhador de cuidados pessoais nos serviços de saúde
+178;Margarida Pinto;1976-8-24;F;Braga;Agricultor e trabalhador qualificado da agricultura e produção animal combinadas, orientados para o mercado
+179;Luciana Leite;1950-12-4;F;Braga;Outro pessoal das Forças Armadas
+180;Carminho Ribeiro;1994-9-24;F;Setúbal;Vendedor ambulante (excepto de alimentos)
+181;Mafalda Sá;1955-7-13;F;Porto;Profissional de nível intermédio da saúde
+182;Luana da Pinto;1952-12-24;F;Lisboa;Trabalhador qualificado da floresta e similares
+183;Francisco Assunção;1969-6-22;M;Faro;Representante do poder legislativo e de órgãos executivos, dirigente superiores da Administração Pública e de organizações especializadas
+184;Lara-Mariana Sá;1980-2-4;F;Lisboa;Trabalhador não qualificado da indústria transformadora
+185;Isaac Santos-Correia;1975-9-12;M;Lisboa;Trabalhador qualificado da aquicultura e das pescas; caçador (inclui com armadilha)
+186;Amélia Simões;1969-12-25;F;Braga;Outras profissões elementares
+187;Alícia Macedo;1958-1-1;F;Lisboa;Trabalhador de outros ofícios
+188;Igor de Nascimento;1979-5-16;M;Porto;Trabalhador qualificado do fabrico de instrumentos de precisão, joalheiros, artesãos e similares
+189;Gabriel Rodrigues;1961-3-1;M;Faro;Operador de caixa e venda de bilhetes
+190;Beatriz da Reis;1965-5-30;F;Faro;Outras profissões elementares
+191;Rúben Maia;1995-7-21;M;Lisboa;Técnico de atividade física e de desporto
+192;Henrique Andrade;1956-2-12;M;Lisboa;Físico, químico e especialista relacionado
+193;Madalena Assunção;1951-9-7;F;Setúbal;Agente de compras, de vendas e corretores comerciais
+194;Vitória-Erica Ferreira;1967-2-24;F;Porto;Assistente de viagem, cobrador e guia intérprete
+195;Noa Morais;1965-6-29;M;Lisboa;Mecânico e reparador de máquinas e de veículos
+196;Filipa Loureiro;1957-5-23;F;Lisboa;Director e gerente de hotelaria e restauração
+197;Vera Monteiro;1955-7-31;F;Lisboa;Director de produção na agricultura, produção animal, floresta e pesca
+198;Nádia Melo;1966-4-28;F;Setúbal;Director de serviços de negócios e de administração
+199;Ângela Santos;1988-7-24;F;Porto;Físico, químico e especialista relacionado
+200;Mia de Antunes;1967-11-10;F;Lisboa;Agente de compras, de vendas e corretores comerciais
+201;Erika Vieira;1989-12-21;F;Porto;Motorista de automóveis ligeiros, de carrinhas e condutores de motociclos
+202;Alexandre Neto;1961-7-6;M;Setúbal;Operador de equipamentos móveis
+203;Benedita Garcia-Neves;1999-5-22;F;Setúbal;Director de vendas, marketing e de desenvolvimento de negócios
+204;Eduarda Nascimento;1998-7-12;F;Lisboa;Trabalhador dos serviços pessoais
+205;Erika Pires;1995-11-24;F;Faro;Especialista em assuntos jurídicos
+206;Cristiano do Carvalho;1988-9-7;M;Faro;Operador de caixa e venda de bilhetes
+207;Jéssica Vaz;1972-9-14;F;Braga;Técnico de secretariado
+208;Diego Castro;1963-7-10;M;Porto;Trabalhador qualificado da floresta e similares
+209;Ângela Carneiro;1981-5-24;F;Lisboa;Instalador e reparadore de equipamentos electrónicos e de telecomunicações
+210;Patrícia Matias-Lima;1962-8-13;F;Porto;Trabalhador da montagem
+211;Micael Miranda;1990-11-10;M;Lisboa;Instalador e reparador de equipamento eléctrico
+212;Noa Borges;1990-1-9;M;Faro;Agricultor e trabalhador qualificado de culturas agrícolas de mercado
+213;Alexandre Vieira;1988-1-21;M;Setúbal;Agente de negócios
+214;Francisco Oliveira;1994-3-17;M;Lisboa;Operador de instalações, da extracção mineira e de processamento de minerais
+215;Joana-Nair Faria;1960-3-11;F;Setúbal;Agente de negócios
+216;Ângelo Amorim-Macedo;1989-4-15;M;Faro;Arquitecto, urbanista e designer
+217;Bruno Lourenço;1954-8-10;M;Lisboa;Governante doméstico e encarregado de limpeza e de trabalhos domésticos
+218;Joel Moura;1963-10-16;M;Setúbal;Operador de instalações e máquinas, do fabrico de produtos químicos e fotográficos
+219;Cláudio Melo;1973-7-15;M;Lisboa;Especialista em finanças e contabilidade
+220;Rafaela-Nair Ferreira;1960-10-25;F;Porto;Operador de máquinas para o fabrico de produtos de borracha, plástico e papel
+221;Marcos Pereira;1952-2-20;M;Setúbal;Cabeleireiro, esteticista e similares
+222;Martim de Torres;1965-12-22;M;Braga;Director e gerente de hotelaria e restauração
+223;Gaspar da Pinheiro;1965-7-10;M;Lisboa;Empregado de mesa e bar
+224;Fábio Morais;1984-12-3;M;Faro;Professor dos ensinos universitário e superior
+225;Helena de Mendes;1972-2-7;F;Setúbal;Profissional de nível intermédio da medicina tradicional e complementar
+226;Benedita Machado;1954-11-23;F;Porto;Especialista em engenharia (excepto electrotecnologia)
+227;Gustavo Gaspar;1955-4-22;M;Porto;Trabalhador relacionado com vendas
+228;Joaquim Correia;1988-4-11;M;Faro;Empregado de aprovisionamento, armazém, de serviços de apoio à produção e transportes
+229;Melissa Carneiro;1992-4-8;F;Setúbal;Operador de máquinas para o fabrico de produtos têxteis, de pele com pêlo e couro
+230;Renato do Magalhães;1960-8-27;M;Setúbal;Instalador e reparadore de equipamentos electrónicos e de telecomunicações
+231;Luna Freitas;1990-10-24;F;Lisboa;Técnico de nível intermédio das actividades culturais, artísticas e culinárias
+232;Mélanie de Soares;1970-8-2;F;Faro;Técnico de nível intermédio da área financeira e matemática
+233;Artur da Marques;1992-6-1;M;Setúbal;Engenheiro Informático
+234;Matilde Barbosa;1966-3-7;F;Braga;Arquitecto, urbanista e designer
+235;Luna Gomes;1963-7-2;F;Lisboa;Especialista em medicina tradicional e alternativa
+236;Rui Nunes;1972-5-23;M;Braga;Outras profissões elementares
+237;Frederico Rocha;1957-5-1;M;Lisboa;Especialista em finanças e contabilidade
+238;José Simões;1984-1-6;M;Lisboa;Cozinheiro
+239;Xavier Morais;1991-4-2;M;Lisboa;Forjador, serralheiro mecânico e similar
+240;Yasmin Melo;1988-2-27;F;Setúbal;Instalador e reparador de equipamento eléctrico
+241;Luísa Paiva;1956-11-2;F;Faro;Vendedor ambulante (excepto de alimentos)
+242;Vitória Gomes;1963-1-12;F;Faro;Prestador de serviços na rua
+243;Marcos Castro;1969-12-30;M;Faro;Sargento das Forças Armadas
+244;Noah Melo;1953-6-4;M;Braga;Trabalhador de cuidados pessoais nos serviços de saúde
+245;Lorena Castro;1990-9-2;F;Lisboa;Criador de animais de subsistência
+246;Henrique Neves-Amaral;1957-5-14;M;Setúbal;Operador de instalações, da extracção mineira e de processamento de minerais
+247;Álvaro Pires;1969-6-3;M;Lisboa;Trabalhador não qualificado da agricultura, produção animal, pesca e floresta
+248;Tiago da Campos;1951-12-8;M;Porto;Especialista em vendas, marketing e relações públicas
+249;Gaspar Andrade;1958-11-24;M;Braga;Director de serviços de negócios e de administração
+250;Mara Paiva;1977-11-19;F;Porto;Operador de processamento de texto e dados
